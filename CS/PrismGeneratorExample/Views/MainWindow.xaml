@@ -1,4 +1,4 @@
-﻿<Window x:Class="PrismGeneratorExample.Views.MainWindow"
+<Window x:Class="PrismGeneratorExample.Views.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:prism="http://prismlibrary.com/"
