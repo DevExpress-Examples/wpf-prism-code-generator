@@ -7,7 +7,7 @@
 
 The free DevExpress MVVM Code Generator helps you avoid boilerplate code in your view model. It supports the following PRISM view model features:
 
-* Commands
+*   Commands
 
     ```csharp
     // synchronous command
